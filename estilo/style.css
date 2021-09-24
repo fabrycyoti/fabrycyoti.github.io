@@ -45,8 +45,8 @@ header {
 
 header > h1 {
     color: white;
-   /* font-family: var(--fonte-destaque); */
-    font-size: 3em;
+  /*  font-family: var(--fonte-destaque); */
+    font-size: 2.5em;
     font-weight: normal;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
@@ -75,6 +75,10 @@ nav {
     box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.363);
 }
 
+/*nav.linksSociais{
+    padding-left: 70%;
+}*/
+
 nav > a {
     color: white;
     padding: 10px;
@@ -89,10 +93,6 @@ nav > a:hover {
     color: var(--cor5);
 
 }
-
-/*nav.linksSociais{
-    padding-left: 70%;
-}*/
 
 main {
     min-width: 300px;
