@@ -123,6 +123,11 @@ main h2 {
     text-indent: 8px;
 }
 
+main ul {
+    list-style-type: none;
+    padding: 0;
+} 
+
 main p {
     margin: 15px 0px;
     text-align: justify;
